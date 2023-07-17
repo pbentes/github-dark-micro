@@ -1,6 +1,6 @@
 color-link default "#ECF2F8,#161b22"
 color-link comment "#89929B,#161b22"
-color-link identifier "#FAA356,#161b22"
+color-link identifier "#CEA5FB,#161b22"
 color-link constant "#77BDFB,#161b22"
 color-link constant.string "#77BDFB,#161b22"
 color-link statement "#FA7970,#161b22"
